@@ -1,0 +1,15 @@
+DATA CLEANING REPORT
+====================
+
+Original rows: 8
+Original dataset shape: (8,)
+
+Missing values before cleaning: 136534
+Duplicate rows removed: 5268
+Rows with missing CustomerID removed: 135037
+Invalid dates removed: 0
+Invalid Quantity rows removed: 8872
+Invalid UnitPrice rows removed: 40
+Missing values after cleaning: 0
+
+Final dataset shape: (392692, 9)
